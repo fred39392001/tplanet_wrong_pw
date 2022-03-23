@@ -29,3 +29,11 @@
   transform: scale(2);
   -webkit-transform: scale(2);
 }
+
+.icon-sm {
+  width: 5%;
+}
+
+.icon-sm-plus {
+  width: 7%;
+}
